@@ -1,0 +1,53 @@
+1.Name: Vision Waste Disposal
+Distance: 6 KM
+Waste Level: 58 %
+All Cost: 9.8655 MYR
+Cumulative Cost: 9.8655 MYR
+
+2.Name: Zhan Ying Waste Disposal
+Distance: 15 KM
+Waste Level: 41 %
+All Cost: 24.6638 MYR
+Cumulative Cost: 34.5293 MYR
+
+3.Name: Big Tree Waste Disposal
+Distance: 20 KM
+Waste Level: 67 %
+All Cost: 32.885 MYR
+Cumulative Cost: 67.4143 MYR
+
+4.Name: Air Hitam Sanitary Landfill
+Distance: 25 KM
+Waste Level: 69 %
+All Cost: 41.1063 MYR
+Cumulative Cost: 108.521 MYR
+
+5.Name: Zero Waste Campaign
+Distance: 30 KM
+Waste Level: 78 %
+All Cost: 49.3275 MYR
+Cumulative Cost: 157.848 MYR
+
+
+-----End of unoptimized sortRoute-----
+
+1.Name: Big Tree Waste Disposal
+Distance: 20 KM
+Waste Level: 67 %
+All Cost: 32.885 MYR
+Cumulative Cost: 32.885 MYR
+
+2.Name: Air Hitam Sanitary Landfill
+Distance: 25 KM
+Waste Level: 69 %
+All Cost: 41.1063 MYR
+Cumulative Cost: 73.9913 MYR
+
+3.Name: Zero Waste Campaign
+Distance: 30 KM
+Waste Level: 78 %
+All Cost: 49.3275 MYR
+Cumulative Cost: 123.319 MYR
+
+Cost Saved: 34.5293 MYR
+-----End of optimized route-----
